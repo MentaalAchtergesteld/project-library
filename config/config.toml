@@ -1,0 +1,19 @@
+[[projects]]
+name = "Finished Project"
+description = "idfk weird description"
+status = "idea"
+
+[[projects]]
+name = "In Progress Project"
+description = "idfk weird description"
+status = "paused"
+
+[[projects]]
+name = "Idea Project"
+description = "idfk weird description"
+status = "paused"
+
+[[projects]]
+name = "Paused Project"
+description = "idfk weird description"
+status = "paused"
